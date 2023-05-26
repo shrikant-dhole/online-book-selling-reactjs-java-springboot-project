@@ -1,0 +1,32 @@
+
+.logo{
+   
+    height: 120px;
+    width:120px;
+    margin-top: 10px;
+}
+.login-buton{
+    margin-left: 20px;
+    width: fit-content;
+}
+
+.header{
+
+font-size: 23px;
+
+background-color:#FFBF00;
+}
+.link{
+    
+margin-top: 8px;
+}
+button:hover{
+    background-color :#013C58!important; 
+    color : #FFBA42!important;
+    
+}
+button{
+    color:#013C58!important;
+    border-width:100px;
+} ;
+

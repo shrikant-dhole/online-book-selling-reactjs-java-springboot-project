@@ -1,0 +1,40 @@
+.form-bg{
+  
+    width: 40%;
+    box-shadow: 10px 10px 8px #888888;
+    background-color:#FFE5B4;
+    border-radius: 10px;
+    
+}
+.button{
+    margin-left: 20%;
+    margin-bottom: 20px;
+    border-width: 5px;
+    border-radius:5px ;
+    border-color: #000e40;
+    color: #000e40;
+    font-weight: bold;
+}
+.button:hover{
+    border-color:#000e40 ;
+   
+}
+
+
+.form  {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+
+.form-text{
+    color: black;
+    font-weight: lighter;
+}
+.error{
+    color: red;
+    font-size: 10px;
+    font-weight: lighter;
+}

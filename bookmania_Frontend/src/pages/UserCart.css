@@ -1,0 +1,40 @@
+.cart-table{
+    margin:100px 0px 100px 40px;
+    border:1px;
+    border-style: solid;
+}
+
+.img-col{
+width:250px;
+}
+.name-col{
+    width:150px;
+}
+.description-col{
+    width:500px;
+}
+.price-col{
+   
+}
+
+.total-amt{
+    display: flex;
+    justify-content: flex-end;
+   
+    
+}
+
+.buy-btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+
+
+.produuct-img{
+    height: 200px;
+    width: 150px;
+}

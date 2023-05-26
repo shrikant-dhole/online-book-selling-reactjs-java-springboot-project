@@ -1,0 +1,41 @@
+.card{
+  
+    width:240px;
+    height:450px;
+    margin:30px 2px 50px 0px ;
+    border: 0.1px;
+    border-style: solid;
+   
+}
+.card-img{
+   
+    height: 250px;
+    padding :5px 5px 5px 5px;
+  
+}
+.price{
+    font-style: italic;
+    font-size: 20px;
+    padding-right: 40px;
+
+}
+
+.discount-price{
+    font-style: italic;
+   
+    padding-left: 20px;
+    text-decoration: line-through;
+    color: rgb(174, 49, 24);
+
+}
+.button{
+   margin-top: 20px;
+    
+
+}
+.card-title{
+    font-size: 15px;
+    padding-left:2px ;
+    padding-right: 2px;
+    font-weight: bold;
+}
